@@ -52,7 +52,7 @@ I build complete products — from database schema and payment infrastructure to
 | **[D-HUB](https://seongsoo.dev/projects/d-hub.html)** | Blockchain developer portal | 2019 |
 | **[Ranking GG](https://seongsoo.dev/projects/ranking-gg.html)** | Real-time e-sports tournament platform — chat, auto prize payout | 2018–2019 |
 
-<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ See all 11 projects</strong></a> · <a href="https://seongsoo.dev/career.html">Career</a></p>
+<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ See all projects</strong></a> · <a href="https://seongsoo.dev/career.html">Career</a></p>
 
 ---
 

@@ -52,7 +52,7 @@
 | **[D-HUB](https://seongsoo.dev/projects/d-hub.html)** | 블록체인 개발자 포털 | 2019 |
 | **[Ranking GG](https://seongsoo.dev/projects/ranking-gg.html)** | 실시간 e-스포츠 토너먼트 플랫폼 — 채팅, 자동 상금 분배 | 2018–2019 |
 
-<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ 전체 11개 프로젝트 보기</strong></a> · <a href="https://seongsoo.dev/career.html">커리어</a></p>
+<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ 전체 프로젝트 보기</strong></a> · <a href="https://seongsoo.dev/career.html">커리어</a></p>
 
 ---
 
