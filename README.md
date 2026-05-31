@@ -17,7 +17,6 @@ I build complete products — from database schema and payment infrastructure to
 - 🧱 **11 selected projects across 8 industries** (2017–2025) — fintech, logistics, e-sports, blockchain, education, wellness, MICE, recycling
 - 🌏 Open to **overseas roles — US, Canada, Australia, and elsewhere**
 - 🟢 **Available from March 2027** — completing mandatory military service
-- ⌨️ Self-taught since age 12 — started by reading game-mod source code before I could read English
 
 ## Tech
 
