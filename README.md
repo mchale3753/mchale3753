@@ -13,8 +13,9 @@
 
 I build complete products — from database schema and payment infrastructure to mobile apps and growth tooling. Often as the first engineer on the ground, turning a blank repo into something with real users and revenue.
 
-- 🚀 Most recently **CTO at [Nmodelin](https://seongsoo.dev/projects/nmodelin.html)** — a fashion-influencer marketing platform (Series A, government-backed TIPS R&D researcher, **$700K+ monthly revenue**, operating across Korea and Japan)
-- 🧱 **11 selected projects across 8 industries** (2017–2025) — fintech, logistics, e-sports, blockchain, education, wellness, MICE, recycling
+- 🚀 Most recently **CTO at [Nmodelin](https://seongsoo.dev/projects/nmodelin/)** — a fashion-influencer marketing platform (Series A, government-backed TIPS R&D researcher, **$700K+ monthly revenue**, operating across Korea and Japan)
+- 🧱 **16 selected projects** (2014–2025) — fintech, e-sports, blockchain, education, logistics, wellness, MICE, and more
+- 🛠️ Before that, **Amplified Codes** (2019–2022) — twelve client projects across eight industries, full-stack delivery end to end
 - 🌏 Open to **overseas roles — US, Canada, Australia, and elsewhere**
 - 🟢 **Available from March 2027** — completing mandatory military service
 
@@ -43,15 +44,15 @@ I build complete products — from database schema and payment infrastructure to
 
 | Project | What it is | Role / Year |
 |---|---|---|
-| **[Nmodelin](https://seongsoo.dev/projects/nmodelin.html)** | Fashion-influencer marketing platform — landing, React Native app, B2B brand & internal back-offices, payments/settlement, embed widget | CTO · 2022–2025 |
-| **[Bullida](https://seongsoo.dev/projects/bullida.html)** | Fractional-investing fintech (pre-IPO equity) — front-end + API integration | 2021 |
-| **[Dabatruck](https://seongsoo.dev/projects/dabatruck.html)** | Truck-ad matching marketplace with GPS | 2020 |
-| **[S-TEAM](https://seongsoo.dev/projects/s-team.html)** | Japan-bound soccer team-management SaaS | 2019–2020 |
-| **[Neurodio](https://seongsoo.dev/projects/neurodio.html)** | Audio-therapy app — sleep / focus, 3 locales | 2019–2020 |
-| **[D-HUB](https://seongsoo.dev/projects/d-hub.html)** | Blockchain developer portal | 2019 |
-| **[Ranking GG](https://seongsoo.dev/projects/ranking-gg.html)** | Real-time e-sports tournament platform — chat, auto prize payout | 2018–2019 |
+| **[Nmodelin](https://seongsoo.dev/projects/nmodelin/)** | Fashion-influencer marketing platform — landing, React Native app, B2B brand & internal back-offices, payments/settlement, embed widget | CTO · 2022–2025 |
+| **[Bullida](https://seongsoo.dev/projects/bullida/)** | Fractional-investing fintech (pre-IPO equity) — front-end + API integration | 2021 |
+| **[Dabatruck](https://seongsoo.dev/projects/dabatruck/)** | Truck-ad matching marketplace with GPS | 2020 |
+| **[S-TEAM](https://seongsoo.dev/projects/s-team/)** | Japan-bound soccer team-management SaaS | 2019–2020 |
+| **[Neurodio](https://seongsoo.dev/projects/neurodio/)** | Audio-therapy app — sleep / focus, 3 locales | 2019–2020 |
+| **[D-HUB](https://seongsoo.dev/projects/d-hub/)** | Blockchain developer portal | 2019 |
+| **[Ranking GG](https://seongsoo.dev/projects/ranking-gg/)** | Real-time e-sports tournament platform — chat, auto prize payout | 2018–2019 |
 
-<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ See all projects</strong></a> · <a href="https://seongsoo.dev/career.html">Career</a></p>
+<p align="center"><a href="https://seongsoo.dev/projects/"><strong>→ See all projects</strong></a> · <a href="https://seongsoo.dev/career/">Career</a></p>
 
 ---
 

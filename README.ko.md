@@ -13,8 +13,9 @@
 
 데이터베이스 설계와 결제 인프라부터 모바일 앱, 그로스 도구까지 — 제품을 처음부터 끝까지 직접 만듭니다. 대부분 첫 엔지니어로 합류해, 빈 저장소를 실제 사용자와 매출이 있는 서비스로 키워왔습니다.
 
-- 🚀 가장 최근 **[앤마들린(Nmodelin)](https://seongsoo.dev/projects/nmodelin.html) CTO** — 패션 인플루언서 마케팅 플랫폼 (Series A, 정부 지원 TIPS 연구원, **월 매출 10억 원+**, 한국·일본 동시 운영)
-- 🧱 **8개 산업, 11개 대표 프로젝트** (2017–2025) — 핀테크 · 물류 · e-스포츠 · 블록체인 · 교육 · 웰니스 · MICE · 리사이클링
+- 🚀 가장 최근 **[앤마들린(Nmodelin)](https://seongsoo.dev/projects/nmodelin/) CTO** — 패션 인플루언서 마케팅 플랫폼 (Series A, 정부 지원 TIPS 연구원, **월 매출 10억 원+**, 한국·일본 동시 운영)
+- 🧱 **16개 대표 프로젝트** (2014–2025) — 핀테크 · e-스포츠 · 블록체인 · 교육 · 물류 · 웰니스 · MICE 등
+- 🛠️ 그 전에는 **Amplified Codes** (2019–2022) — 8개 산업, 12개 외주 프로젝트를 풀스택으로 처음부터 끝까지
 - 🌏 **미국 · 캐나다 · 호주 등 해외 포지션** 지향
 - 🟢 **2027년 3월부터 합류 가능** — 현역 복무 중
 
@@ -43,15 +44,15 @@
 
 | 프로젝트 | 설명 | 역할 / 연도 |
 |---|---|---|
-| **[앤마들린](https://seongsoo.dev/projects/nmodelin.html)** | 패션 인플루언서 마케팅 플랫폼 — 랜딩, React Native 앱, B2B 브랜드·내부 백오피스, 결제·정산, 임베드 위젯 | CTO · 2022–2025 |
-| **[불리다](https://seongsoo.dev/projects/bullida.html)** | 조각투자 핀테크(비상장 주식) — 프론트엔드 + API 연동 | 2021 |
-| **[다바트럭](https://seongsoo.dev/projects/dabatruck.html)** | GPS 기반 탑차 광고 매칭 플랫폼 | 2020 |
-| **[S-TEAM](https://seongsoo.dev/projects/s-team.html)** | 일본향 축구 팀 매니지먼트 SaaS | 2019–2020 |
-| **[Neurodio](https://seongsoo.dev/projects/neurodio.html)** | 오디오 테라피 앱 — 수면/집중, 3개국 언어 | 2019–2020 |
-| **[D-HUB](https://seongsoo.dev/projects/d-hub.html)** | 블록체인 개발자 포털 | 2019 |
-| **[Ranking GG](https://seongsoo.dev/projects/ranking-gg.html)** | 실시간 e-스포츠 토너먼트 플랫폼 — 채팅, 자동 상금 분배 | 2018–2019 |
+| **[앤마들린](https://seongsoo.dev/projects/nmodelin/)** | 패션 인플루언서 마케팅 플랫폼 — 랜딩, React Native 앱, B2B 브랜드·내부 백오피스, 결제·정산, 임베드 위젯 | CTO · 2022–2025 |
+| **[불리다](https://seongsoo.dev/projects/bullida/)** | 조각투자 핀테크(비상장 주식) — 프론트엔드 + API 연동 | 2021 |
+| **[다바트럭](https://seongsoo.dev/projects/dabatruck/)** | GPS 기반 탑차 광고 매칭 플랫폼 | 2020 |
+| **[S-TEAM](https://seongsoo.dev/projects/s-team/)** | 일본향 축구 팀 매니지먼트 SaaS | 2019–2020 |
+| **[Neurodio](https://seongsoo.dev/projects/neurodio/)** | 오디오 테라피 앱 — 수면/집중, 3개국 언어 | 2019–2020 |
+| **[D-HUB](https://seongsoo.dev/projects/d-hub/)** | 블록체인 개발자 포털 | 2019 |
+| **[Ranking GG](https://seongsoo.dev/projects/ranking-gg/)** | 실시간 e-스포츠 토너먼트 플랫폼 — 채팅, 자동 상금 분배 | 2018–2019 |
 
-<p align="center"><a href="https://seongsoo.dev/projects.html"><strong>→ 전체 프로젝트 보기</strong></a> · <a href="https://seongsoo.dev/career.html">커리어</a></p>
+<p align="center"><a href="https://seongsoo.dev/projects/"><strong>→ 전체 프로젝트 보기</strong></a> · <a href="https://seongsoo.dev/career/">커리어</a></p>
 
 ---
 
