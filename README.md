@@ -14,8 +14,8 @@
 I build complete products — from database schema and payment infrastructure to mobile apps and growth tooling. Often as the first engineer on the ground, turning a blank repo into something with real users and revenue.
 
 - 🚀 Most recently **CTO at [Nmodelin](https://seongsoo.dev/projects/nmodelin/)** — a fashion-influencer marketing platform (Series A, government-backed TIPS R&D researcher, **$700K+ monthly revenue**, operating across Korea and Japan)
-- 🧱 **16 selected projects** (2014–2025) — fintech, e-sports, blockchain, education, logistics, wellness, MICE, and more
-- 🛠️ Before that, **Amplified Codes** (2019–2022) — twelve client projects across eight industries, full-stack delivery end to end
+- 🧱 **17 selected projects** (2014–2025) — fintech, e-sports, blockchain, education, logistics, wellness, MICE, AR, and more
+- 🛠️ Before that, **Amplified Codes** (2019–2022) — thirteen client projects across nine industries, full-stack delivery end to end
 - 🌏 Open to **overseas roles — US, Canada, Australia, and elsewhere**
 - 🟢 **Available from March 2027** — completing mandatory military service
 
